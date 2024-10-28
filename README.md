@@ -12,7 +12,7 @@ Note that we have limited bandwidth / funding in our lab and unfortunately do no
 
 ## PhD applicants
 
-**We are recruiting PhD students for a Fall 2025 start date**. To apply, please fill out our [lab-specific application form](https://forms.gle/H4Pq9ufJwgccJ8jN7), and also formally apply to the [CMU CSD PhD program by December 11, 2024](https://csd.cmu.edu/academics/doctoral/admissions), details below.
+**We are recruiting PhD students for a Fall 2025 start date**. To apply, please fill out our [lab-specific application form](https://forms.gle/H4Pq9ufJwgccJ8jN7), and also formally apply to the [CMU CSD PhD program by December 11, 2024](https://csd.cmu.edu/academics/doctoral/admissions), details below. Feel free to submit the lab-specific form in advance of your official application! It is intended to be low effort relative to the official application - think of it as a similar time commitment to sending an email.
 
 ### Formally applying to the CMU CSD PhD program
 

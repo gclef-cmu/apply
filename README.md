@@ -6,7 +6,7 @@ We are the [**Generative Creativity Lab (G-CLef)**](https://chrisdonahue.com/#gr
 
 ## Applying
 
-Please submit an application using [this form](https://docs.google.com/forms/d/1DI4dAG_zp6HmbJx_0rxqWJYU3XEIzGUQTXXJNcuZiKc/edit). For [PhD applicants](#phd-applicants), we will review applications once per year in November or early December, and potentially reach out for more information or to schedule a time to chat. For [other applicants](#other-applicants), we will review on a rolling basis.
+Please view the specific instructions for [PhD applicants](#phd-applicants) and for [other applicants](#other-applicants). For PhD applicants, CSD will review applications once per year after they are due in December.
 
 Note that we have limited bandwidth / funding in our lab and unfortunately do not have the resources to respond to all inquiries. You may email Chris directly about your application, though this will not guarantee a response. See [this FAQ from Yonatan Bisk at CMU LTI](https://talkingtorobots.com/FAQ.html) for some great general guidance on how/when to email professors and what to expect.
 
